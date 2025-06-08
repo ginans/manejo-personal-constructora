@@ -1,0 +1,93 @@
+body {
+  padding-top: 70px;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.tarjeta-empleado {
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s;
+}
+
+.tarjeta-empleado:hover {
+  border-color: #0d6efd;
+  transform: translateY(-2px);
+}
+
+.avatar {
+  width: 60px;
+  height: 60px;
+  background-color: #0d6efd;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0 auto 15px;
+}
+
+.cargo-ingeniero {
+  background-color: var(--bs-primary);
+}
+.cargo-arquitecto {
+  background-color: var(--bs-info);
+}
+.cargo-maestro {
+  background-color: var(--bs-warning);
+}
+.cargo-albanil {
+  background-color: var(--bs-secondary);
+}
+.cargo-electricista {
+  background-color: var(--bs-danger);
+}
+.cargo-plomero {
+  background-color: var(--bs-success);
+}
+
+.btn-eliminar {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.filter-badge {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.filter-badge:hover {
+  transform: translateY(-2px);
+}
+
+.filter-badge.active {
+  box-shadow: 0 0 0 2px var(--bs-primary);
+}
+
+/* para responsividad */
+@media (max-width: 576px) {
+  .filter-badge {
+    display: block;
+    margin: 5px auto;
+    width: fit-content;
+  }
+}
