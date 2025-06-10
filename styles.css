@@ -2,6 +2,11 @@ body {
   padding-top: 70px;
 }
 
+#inicio{
+  background-image: url("./images/constructora.jpg");
+  padding: 20px;
+}
+
 .navbar {
   position: fixed;
   top: 0;
