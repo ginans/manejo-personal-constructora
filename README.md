@@ -14,8 +14,8 @@ Sistema web para la administración y gestión de personal de una empresa constr
 
 ## 👥 Equipo de Desarrollo
 
-- **Fabian Malinarich**
-- **Gina Norambuena**
+- **Fabian Malinarich** - [@FLAMEXone](https://github.com/FLAMEXone)
+- **Gina Norambuena** - [@ginans](https://github.com/ginans)
 
 ## ✨ Características Principales
 
