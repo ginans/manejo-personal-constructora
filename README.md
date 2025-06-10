@@ -17,20 +17,6 @@ Sistema web para la administración y gestión de personal de una empresa constr
 - **Fabian Malinarich**
 - **Gina Norambuena**
 
-## 🎥 Video Demo
-
-¡Mira nuestro sistema en acción! Este video muestra todas las funcionalidades del proyecto:
-
-[![Video Demo - Sistema de Gestión de Personal](https://img.shields.io/badge/▶️%20Ver%20Video%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=TU_VIDEO_ID)
-
-
-### 🎬 Contenido del Video
-- Navegación por la interfaz
-- Agregar nuevos empleados
-- Validación de formularios
-- Visualización de empleados
-- Eliminación de registros
-
 ## ✨ Características Principales
 
 ### 🔧 Funcionalidades
@@ -143,14 +129,19 @@ El sistema está optimizado para:
 - **Custom Properties:** Variables CSS
 - **Bootstrap Integration:** Framework CSS
 
-## 🚀 Funcionalidades Futuras
+## 🎥 Video Demo
 
-- [ ] **Persistencia de Datos:** Integración con base de datos
-- [ ] **Búsqueda y Filtros:** Filtrar empleados por cargo
-- [ ] **Edición de Empleados:** Modificar datos existentes
-- [ ] **Exportar Datos:** Generar reportes en PDF/Excel
-- [ ] **Autenticación:** Sistema de login
-- [ ] **Roles de Usuario:** Diferentes permisos
+Este video muestra todas las funcionalidades del proyecto:
+
+[![Video Demo - Sistema de Gestión de Personal](https://img.shields.io/badge/▶️%20Ver%20Video%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=TU_VIDEO_ID)
+
+
+### 🎬 Contenido del Video
+- Navegación por la interfaz
+- Agregar nuevos empleados
+- Validación de formularios
+- Visualización de empleados
+- Eliminación de registros
 
 ## 📄 Licencia
 
@@ -158,4 +149,11 @@ Este proyecto es de uso académico y está desarrollado para fines educativos.
 
 ---
 
+## 🤖 Disclaimer
+
+Este README fue generado con la ayuda de **GitHub Copilot**, una herramienta de inteligencia artificial que asistió en la creación de la documentación y estructura del proyecto. ❤️
+
+---
+
 **© 2025 Constructora ABC - Proyecto Académico**
+
