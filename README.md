@@ -17,6 +17,20 @@ Sistema web para la administración y gestión de personal de una empresa constr
 - **Fabian Malinarich**
 - **Gina Norambuena**
 
+## 🎥 Video Demo
+
+¡Mira nuestro sistema en acción! Este video muestra todas las funcionalidades del proyecto:
+
+[![Video Demo - Sistema de Gestión de Personal](https://img.shields.io/badge/▶️%20Ver%20Video%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=TU_VIDEO_ID)
+
+
+### 🎬 Contenido del Video
+- Navegación por la interfaz
+- Agregar nuevos empleados
+- Validación de formularios
+- Visualización de empleados
+- Eliminación de registros
+
 ## ✨ Características Principales
 
 ### 🔧 Funcionalidades
